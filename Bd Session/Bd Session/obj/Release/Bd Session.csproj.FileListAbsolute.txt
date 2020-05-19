@@ -1,0 +1,11 @@
+C:\Users\gmadr\Source\Repos\Session-DB\Bd Session\Bd Session\bin\Release\Bd Session.exe.config
+C:\Users\gmadr\Source\Repos\Session-DB\Bd Session\Bd Session\bin\Release\Bd Session.exe
+C:\Users\gmadr\Source\Repos\Session-DB\Bd Session\Bd Session\bin\Release\Bd Session.pdb
+C:\Users\gmadr\Source\Repos\Session-DB\Bd Session\Bd Session\obj\Release\Bd_Session.EditForm.resources
+C:\Users\gmadr\Source\Repos\Session-DB\Bd Session\Bd Session\obj\Release\Bd_Session.MainForm.resources
+C:\Users\gmadr\Source\Repos\Session-DB\Bd Session\Bd Session\obj\Release\Bd_Session.AddForm.resources
+C:\Users\gmadr\Source\Repos\Session-DB\Bd Session\Bd Session\obj\Release\Bd_Session.Properties.Resources.resources
+C:\Users\gmadr\Source\Repos\Session-DB\Bd Session\Bd Session\obj\Release\Bd Session.csproj.GenerateResource.cache
+C:\Users\gmadr\Source\Repos\Session-DB\Bd Session\Bd Session\obj\Release\Bd Session.csproj.CoreCompileInputs.cache
+C:\Users\gmadr\Source\Repos\Session-DB\Bd Session\Bd Session\obj\Release\Bd Session.exe
+C:\Users\gmadr\Source\Repos\Session-DB\Bd Session\Bd Session\obj\Release\Bd Session.pdb
